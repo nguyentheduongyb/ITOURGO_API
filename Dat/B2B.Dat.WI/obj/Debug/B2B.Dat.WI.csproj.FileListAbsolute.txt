@@ -1,0 +1,8 @@
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\bin\Debug\B2B.Dat.WI.dll
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\bin\Debug\B2B.Dat.WI.pdb
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\bin\Debug\TMS.Base.dll
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\obj\Debug\B2B.Dat.WI.csprojAssemblyReference.cache
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\obj\Debug\B2B.Dat.WI.csproj.CoreCompileInputs.cache
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\obj\Debug\B2B.Dat.WI.csproj.CopyComplete
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\obj\Debug\B2B.Dat.WI.dll
+D:\CongViec\B2B_API\Dat\B2B.Dat.WI\obj\Debug\B2B.Dat.WI.pdb

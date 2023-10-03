@@ -1,0 +1,110 @@
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Base.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Base.pdb
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\PROJECT\TMS_B2B\WEB_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Base.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\WORKS\PNG\Projects\B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\WORKS\PNG\Projects\B2B\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojAssemblyReference.cache
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CopyComplete
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\PNG_Hieu\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Base.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Bàn làm việc\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CopyComplete
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Base.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CopyComplete
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\Projects_TMS_PNG\Projects_B2B\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\TMS.Ent.Sys.dll
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\EeekSoft.Web.PopupWin.dll
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\Project\B2B_HUB\Sourcode\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojAssemblyReference.cache
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CoreCompileInputs.cache
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CopyComplete
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\GIT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojResolveAssemblyReference.cache
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\Project\GIT_TMS_PROJECT\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Dat.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csprojAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.csproj.CopyComplete
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Dat\B2B.Dat.CM\obj\Debug\B2B.Dat.CM.pdb

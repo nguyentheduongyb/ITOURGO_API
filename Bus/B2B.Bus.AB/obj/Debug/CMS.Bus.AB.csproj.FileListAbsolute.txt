@@ -1,0 +1,9 @@
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\bin\Debug\B2B.Bus.AB.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\bin\Debug\B2B.Bus.AB.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\bin\Debug\B2B.Dat.AB.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\bin\Debug\B2B.Dat.AB.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\obj\Debug\B2B.Bus.AB.csprojAssemblyReference.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\obj\Debug\B2B.Bus.AB.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\obj\Debug\B2B.Bus.AB.csproj.CopyComplete
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\obj\Debug\B2B.Bus.AB.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Bus\B2B.Bus.AB\obj\Debug\B2B.Bus.AB.pdb

@@ -1,0 +1,6 @@
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\bin\Debug\B2B.Ent.AB.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\bin\Debug\B2B.Ent.AB.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\obj\Debug\B2B.Ent.AB.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\obj\Debug\B2B.Ent.AB.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\obj\Debug\B2B.Ent.AB.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.AB\obj\Debug\B2B.Ent.AB.csprojAssemblyReference.cache

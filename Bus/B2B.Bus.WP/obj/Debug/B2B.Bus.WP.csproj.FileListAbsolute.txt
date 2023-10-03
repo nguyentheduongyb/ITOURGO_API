@@ -1,0 +1,10 @@
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\bin\Debug\B2B.Bus.WP.dll
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\bin\Debug\B2B.Bus.WP.pdb
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\bin\Debug\B2B.Dat.WP.dll
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\bin\Debug\TMS.Base.dll
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\bin\Debug\B2B.Dat.WP.pdb
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\obj\Debug\B2B.Bus.WP.csprojAssemblyReference.cache
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\obj\Debug\B2B.Bus.WP.csproj.CoreCompileInputs.cache
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\obj\Debug\B2B.Bus.WP.csproj.CopyComplete
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\obj\Debug\B2B.Bus.WP.dll
+D:\CongViec\B2B_API\Bus\B2B.Bus.WP\obj\Debug\B2B.Bus.WP.pdb

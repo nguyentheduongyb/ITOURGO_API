@@ -1,0 +1,11 @@
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.CM\bin\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.csproj.CoreCompileInputs.cache
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.dll
+D:\0o-LuuTruDuLieu-o0\Desktop\GitHub\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.pdb
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\bin\Debug\B2B.Ent.CM.dll
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\bin\Debug\B2B.Ent.CM.pdb
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.csprojAssemblyReference.cache
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.csproj.CoreCompileInputs.cache
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.dll
+D:\CongViec\B2B_API\Ent\B2B.Ent.CM\obj\Debug\B2B.Ent.CM.pdb
